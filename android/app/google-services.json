@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "3361259528",
+    "firebase_url": "https://socialledger-d0a40-default-rtdb.firebaseio.com",
+    "project_id": "socialledger-d0a40",
+    "storage_bucket": "socialledger-d0a40.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3361259528:android:e6690f606dfcc73124d1bd",
+        "android_client_info": {
+          "package_name": "com.omar.socialledg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3361259528-b0geft73qpo328ga0d5h7bqd70pha8nk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.omar.socialledg",
+            "certificate_hash": "1d309b2848867f56b69e531c22325373e2552f15"
+          }
+        },
+        {
+          "client_id": "3361259528-e70ft4kml5ecc5631map71ma93lsvv2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9x7VEPtWq5pga8tH3oUDEN0fVGG5rvqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3361259528-e70ft4kml5ecc5631map71ma93lsvv2i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "3361259528-vrggt4msf5l5kllf1t8afcq7ho0546j2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.socialledgerNew"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3361259528:android:d68ea724be791e2f24d1bd",
+        "android_client_info": {
+          "package_name": "com.omar.socialledger_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3361259528-e70ft4kml5ecc5631map71ma93lsvv2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9x7VEPtWq5pga8tH3oUDEN0fVGG5rvqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3361259528-e70ft4kml5ecc5631map71ma93lsvv2i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "3361259528-vrggt4msf5l5kllf1t8afcq7ho0546j2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.socialledgerNew"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
